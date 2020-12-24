@@ -23,5 +23,7 @@
         <module>../dd-transfer-bag-to-vault</module>
         <module>../dd-pre-publish-workflow</module>
         <module>../dans-dataverse-scala-lib</module>
+        <module>../easy-validate-dans-bag</module>
+        <module>../easy-pid-generator</module>
     </modules>
 </project>

@@ -25,6 +25,7 @@
         <module>../dans-dataverse-scala-lib</module>
         <module>../easy-validate-dans-bag</module>
         <module>../easy-pid-generator</module>
+        <module>../easy-convert-bag-to-deposit</module>
         <module>../dd-vault-catalog</module>
     </modules>
 </project>

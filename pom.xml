@@ -27,5 +27,6 @@
         <module>../easy-pid-generator</module>
         <module>../easy-convert-bag-to-deposit</module>
         <module>../dd-vault-catalog</module>
+        <module>../easy-bag-store</module>
     </modules>
 </project>

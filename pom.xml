@@ -27,6 +27,9 @@
         <module>../easy-pid-generator</module>
         <module>../easy-convert-bag-to-deposit</module>
         <module>../dd-vault-catalog</module>
+
+        <!-- Remove after migration -->
+        <module>../dd-migration-info</module>
         <module>../easy-bag-store</module>
     </modules>
 </project>

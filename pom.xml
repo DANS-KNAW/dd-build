@@ -24,7 +24,6 @@
         <module>../dd-pre-publish-workflow</module>
         <module>../dans-dataverse-scala-lib</module>
         <module>../easy-validate-dans-bag</module>
-        <module>../easy-pid-generator</module>
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
         <module>../easy-convert-bag-to-deposit</module>

@@ -26,12 +26,10 @@
         <module>../easy-validate-dans-bag</module>
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
-        <module>../easy-convert-bag-to-deposit</module>
         <module>../dd-vault-catalog</module>
         <module>../dd-import-easy-users-to-dataverse</module>
 
         <!-- Remove after migration -->
         <module>../dd-migration-info</module>
-        <module>../easy-bag-store</module>
     </modules>
 </project>

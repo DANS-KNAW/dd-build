@@ -20,9 +20,10 @@
     </build>
     <modules>
         <module>../dd-dans-deposit-to-dataverse</module>
-        <module>../dd-transfer-bag-to-vault</module>
+        <module>../dd-transfer-to-vault</module>
         <module>../dd-pre-publish-workflow</module>
         <module>../dans-dataverse-scala-lib</module>
+        <module>../dans-dataverse-client-lib</module>
         <module>../easy-validate-dans-bag</module>
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>

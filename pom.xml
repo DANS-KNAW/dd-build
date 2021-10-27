@@ -27,6 +27,7 @@
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
         <module>../dd-import-easy-users-to-dataverse</module>
+<!--        <module>../dd-export-for-europeana</module> -->
 
         <!-- Remove after migration -->
         <module>../dd-migration-info</module>

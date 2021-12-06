@@ -26,11 +26,9 @@
         <module>../easy-validate-dans-bag</module>
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
+        <module>../dd-manage-prestaging</module> 
         <module>../dd-workflow-step-vault-metadata</module>
         <module>../dd-import-easy-users-to-dataverse</module>
         <module>../dd-export-for-europeana</module>
-
-        <!-- Remove after migration -->
-        <module>../dd-migration-info</module>
     </modules>
 </project>

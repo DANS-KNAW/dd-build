@@ -28,6 +28,8 @@
         <module>../easy-sword2-dans-examples</module>
         <module>../dd-manage-prestaging</module> 
         <module>../dd-workflow-step-vault-metadata</module>
+        <module>../dd-workflow-step-add-nbn-link</module>
+        <module>../dd-verify-file-migration</module>
         <module>../dd-import-easy-users-to-dataverse</module>
         <module>../dd-export-for-europeana</module>
     </modules>

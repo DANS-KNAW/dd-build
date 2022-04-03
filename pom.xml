@@ -30,6 +30,7 @@
       <module>../dd-verify-migration</module>
       <module>../dd-workflow-step-add-nbn-link</module>
       <module>../dd-workflow-step-vault-metadata</module>
+      <module>../easy-mirror-deposit</module>
       <module>../easy-manage-deposit</module>
       <module>../easy-sword2</module>
       <module>../easy-sword2-dans-examples</module>

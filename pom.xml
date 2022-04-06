@@ -33,6 +33,7 @@
       <module>../easy-mirror-deposit</module>
       <module>../easy-manage-deposit</module>
       <module>../easy-sword2</module>
+      <module>../dd-sword2</module>
       <module>../easy-sword2-dans-examples</module>
       <module>../easy-validate-dans-bag</module>
     </modules>

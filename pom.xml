@@ -25,15 +25,14 @@
       <module>../dd-import-easy-users-to-dataverse</module>
       <module>../dd-ingest-flow</module>
       <module>../dd-manage-prestaging</module>
+      <module>../dd-sword2</module>
       <module>../dd-transfer-to-vault</module>
       <module>../dd-vault-catalog</module>
       <module>../dd-verify-migration</module>
-      <module>../dd-workflow-step-add-nbn-link</module>
       <module>../dd-workflow-step-vault-metadata</module>
-      <module>../easy-mirror-deposit</module>
       <module>../easy-manage-deposit</module>
+      <module>../easy-mirror-deposit</module>
       <module>../easy-sword2</module>
-      <module>../dd-sword2</module>
       <module>../easy-sword2-dans-examples</module>
       <module>../easy-validate-dans-bag</module>
     </modules>

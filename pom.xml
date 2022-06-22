@@ -28,6 +28,7 @@
       <module>../dd-sword2</module>
       <module>../dd-transfer-to-vault</module>
       <module>../dd-vault-catalog</module>
+      <module>../dd-validate-dans-bag</module>
       <module>../dd-verify-migration</module>
       <module>../dd-workflow-step-vault-metadata</module>
       <module>../easy-manage-deposit</module>

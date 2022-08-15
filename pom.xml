@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>nl.knaw.dans.easy</groupId>
     <artifactId>dd-build</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <inceptionYear>2020</inceptionYear>
-    <name>Dataverse DANS Master Build</name>
+    <name>DANS Data Station Modules Master Build</name>
     <packaging>pom</packaging>
     <build>
         <plugins>
@@ -19,16 +20,17 @@
         </plugins>
     </build>
     <modules>
-      <module>../dans-dataverse-client-lib</module>
-      <module>../dd-ingest-flow</module>
-      <module>../dd-sword2</module>
-      <module>../dd-transfer-to-vault</module>
-      <module>../dd-validate-dans-bag</module>
-      <module>../dd-vault-catalog</module>
-      <module>../dd-verify-migration</module>
-      <module>../dd-workflow-step-vault-metadata</module>
-      <module>../dd-workflow-step-virus-scan</module>
-      <module>../easy-mirror-deposit</module>
-      <module>../easy-sword2-dans-examples</module>
+        <module>../dans-dataverse-client-lib</module>
+        <module>../dans-java-utils</module>
+        <module>../dd-ingest-flow</module>
+        <module>../dd-sword2</module>
+        <module>../dd-transfer-to-vault</module>
+        <module>../dd-validate-dans-bag</module>
+        <module>../dd-vault-catalog</module>
+        <module>../dd-verify-migration</module>
+        <module>../dd-workflow-step-vault-metadata</module>
+        <module>../dd-workflow-step-virus-scan</module>
+        <module>../easy-mirror-deposit</module>
+        <module>../easy-sword2-dans-examples</module>
     </modules>
 </project>

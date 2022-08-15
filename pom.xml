@@ -20,10 +20,7 @@
     </build>
     <modules>
       <module>../dans-dataverse-client-lib</module>
-      <module>../dd-export-for-europeana</module>
-      <module>../dd-import-easy-users-to-dataverse</module>
       <module>../dd-ingest-flow</module>
-      <module>../dd-manage-prestaging</module>
       <module>../dd-sword2</module>
       <module>../dd-transfer-to-vault</module>
       <module>../dd-validate-dans-bag</module>

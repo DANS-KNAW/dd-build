@@ -23,6 +23,7 @@
         <module>../dans-dataverse-client-lib</module>
         <module>../dans-java-utils</module>
         <module>../dans-module-archetype</module>
+        <module>../dd-dataverse-authenticator</module>
         <module>../dd-ingest-flow</module>
         <module>../dd-sword2</module>
         <module>../dd-transfer-to-vault</module>

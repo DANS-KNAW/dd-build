@@ -23,6 +23,8 @@
         <module>../dans-dataverse-client-lib</module>
         <module>../dans-java-utils</module>
         <module>../dans-module-archetype</module>
+        <module>../dans-schema</module>
+        <module>../dd-dans-sword2-examples</module>
         <module>../dd-dataverse-authenticator</module>
         <module>../dd-ingest-flow</module>
         <module>../dd-sword2</module>
@@ -33,6 +35,5 @@
         <module>../dd-workflow-step-vault-metadata</module>
         <module>../dd-workflow-step-virus-scan</module>
         <module>../easy-mirror-deposit</module>
-        <module>../easy-sword2-dans-examples</module>
     </modules>
 </project>

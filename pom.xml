@@ -27,6 +27,7 @@
         <module>../dd-dans-sword2-examples</module>
         <module>../dd-dataverse-authenticator</module>
         <module>../dd-ingest-flow</module>
+        <module>../dd-parent</module>
         <module>../dd-sword2</module>
         <module>../dd-transfer-to-vault</module>
         <module>../dd-validate-dans-bag</module>

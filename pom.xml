@@ -83,8 +83,8 @@
         <module>../dd-vault-catalog</module>
         <module>../dd-verify-dataset</module>
         <module>../dd-verify-migration</module>
-        <module>../dd-workflow-step-vault-metadata</module>
-        <module>../dd-workflow-step-virus-scan</module>
+        <module>../dd-vault-metadata</module>
+        <module>../dd-virus-scan</module>
         <module>../easy-mirror-deposit</module>
     </modules>
 </project>

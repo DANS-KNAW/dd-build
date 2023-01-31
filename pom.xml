@@ -75,7 +75,8 @@
         <module>../dans-schema</module>
         <module>../dd-dans-sword2-examples</module>
         <module>../dd-dataverse-authenticator</module>
-        <module>../dd-ingest-flow</module>
+	<module>../dd-ingest-flow</module>
+	<module>../dd-manage-deposit</module>
         <module>../dd-parent</module>
         <module>../dd-sword2</module>
         <module>../dd-transfer-to-vault</module>

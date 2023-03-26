@@ -22,7 +22,7 @@
     <parent>
         <groupId>nl.knaw.dans</groupId>
         <artifactId>dd-parent</artifactId>
-        <version>0.17.0</version>
+        <version>0.18.0</version>
     </parent>
 
     <groupId>nl.knaw.dans.easy</groupId>
@@ -67,6 +67,7 @@
     </repositories>
 
     <modules>
+        <module>../dans-bagit-lib</module>
         <module>../dans-build-resources-maven-plugin</module>
         <module>../dans-dataverse-client-lib</module>
         <module>../dans-java-utils</module>

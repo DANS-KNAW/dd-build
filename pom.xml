@@ -85,7 +85,8 @@
         <module>../dd-validate-dans-bag</module>
         <module>../dd-vault-catalog</module>
         <module>../dd-verify-dataset</module>
-        <module>../dd-verify-migration</module>
+	<module>../dd-verify-migration</module>
+	<module>../dd-vault-ingest-flow</module>
         <module>../dd-vault-metadata</module>
         <module>../dd-virus-scan</module>
         <module>../easy-mirror-deposit</module>

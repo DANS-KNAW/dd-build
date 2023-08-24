@@ -67,10 +67,11 @@
     </repositories>
 
     <modules>
+	<module>../dans-api-archetype</module>
         <module>../dans-bagit-lib</module>
         <module>../dans-build-resources-maven-plugin</module>
         <module>../dans-dataverse-client-lib</module>
-        <module>../dans-java-utils</module>
+	<module>../dans-java-utils</module>
         <module>../dans-module-archetype</module>
         <module>../dans-nexus-maven-plugin</module>
         <module>../dans-schema</module>
@@ -79,6 +80,7 @@
         <module>../dd-export-easy-verify-migration-info</module>
         <module>../dd-ingest-flow</module>
         <module>../dd-manage-deposit</module>
+        <module>../dd-manage-deposit-api</module>
         <module>../dd-parent</module>
         <module>../dd-sword2</module>
         <module>../dd-transfer-to-vault</module>

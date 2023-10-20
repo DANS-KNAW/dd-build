@@ -22,7 +22,7 @@
     <parent>
         <groupId>nl.knaw.dans</groupId>
         <artifactId>dd-parent</artifactId>
-        <version>0.21.0</version>
+        <version>0.23.0</version>
     </parent>
 
     <groupId>nl.knaw.dans.easy</groupId>
@@ -80,7 +80,6 @@
         <module>../dd-export-easy-verify-migration-info</module>
         <module>../dd-ingest-flow</module>
         <module>../dd-manage-deposit</module>
-        <module>../dd-manage-deposit-api</module>
         <module>../dd-parent</module>
         <module>../dd-sword2</module>
         <module>../dd-transfer-to-vault</module>
